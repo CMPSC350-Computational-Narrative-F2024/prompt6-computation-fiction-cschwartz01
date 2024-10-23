@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YOoU0fLF)
 # Prompt 6: Computational Fiction
 
 > [A story is] a narrative that describes a series of connected events, typically involving characters, a setting, and a plot. It often unfolds with a beginning, middle, and end, and is used to entertain, convey messages, or explain concepts. Stories can be fictional, based on imagination, or non-fictional, based on real-life events. They are a way to share experiences, communicate ideas, and evoke emotions, serving as a fundamental form of human expression and cultural transmission.
