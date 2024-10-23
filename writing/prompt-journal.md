@@ -1,7 +1,10 @@
 ## Story continuation prompts
 
-TODO: Insert prompts you used to continue the story.
+I used the following prompts in the order shown to generate my output.
+- You are a writer. Your task is to help write short stories that follow specific story structures.
+- Continuing the narrative of the following text, create a 750-word or less short story that follows the structure of the save the cat beat sheet. The story synopsis text you will use is: Mushroom, Giraffe, and Elephant stumble upon a secret trampoline hidden deep in the forest, rumored to grant extraordinary powers with each jump. As they bounce higher, they start swapping abilities—Mushroom gains Giraffe's height, Elephant shrinks to Mushroom's size, and Giraffe develops super-strength. When the trampoline reveals its true purpose as a portal to an ancient realm where creatures must exchange traits to survive, the friends must navigate their bizarre transformations and work together to unlock the trampoline's final, reality-bending leap.
+- Adjust the story to include all of the elements of the save the cat beat sheet story structure: opening image, theme stated, set-up, catalyst, debate, break into act 2 (promise of the premise), midpoint, bad guys close in, all is lost, dark night of the soul, break into act 3, and finale image
 
 ## New short story prompts
 
-TODO: Insert prompts and synopsis you used to write your own.
+- Continuing the narrative of the following summary, create a 750-word or less short story that follows the structure of the save the cat beat sheet. Be sure to include all elements of the save the cat beat sheet story structure, including opening image, theme stated, set-up, catalyst, debate, break into act 2 (promise of the premise), midpoint, bad guys close in, all is lost, dark night of the soul, break into act 3, and finale image. The summary to use is: four friends rent a cozy house in the woods and discover a mysterious new kingdom in the surrounding nature. However, soon they learn that this magical new kingdom is full of terrifying monsters and things are far more dangerous than it seems.
